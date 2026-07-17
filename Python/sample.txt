@@ -1,3 +1,2 @@
-Hello world
-how are you
-My name is Chandru Chandru
+Hello Python
+Welcome to File Handling
